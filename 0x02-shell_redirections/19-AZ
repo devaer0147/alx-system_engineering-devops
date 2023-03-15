@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Replace All charActer" | tr Ac Ze
